@@ -15,3 +15,14 @@ In the [code](https://github.com/jidafan/HR-Dashboard/blob/main/Data%20Generatio
 
 ### Dashboard
 
+#### Design
+
+Before working on the dashboard, we design the format and layout using draw.io to get a clear view of the dashboard. The [design](https://github.com/jidafan/HR-Dashboard/blob/main/Dashboard%20HR.drawio.png) can be viewed here.
+
+#### Creation
+
+
+
+#### Additioanl Touches
+
+To finish our dashboard, we create a custom background using **Figma** to create shadows and rounded corners to produce a more polished professional look. The [dashboard](https://public.tableau.com/app/profile/scott.duong8287/viz/HRDashboard_17219463577760/HRDashboard) can be viewed here.
