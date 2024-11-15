@@ -23,6 +23,6 @@ Before working on the dashboard, we design the format and layout using draw.io t
 
 To create the dashboard, various calculated fields were created for the dashboard and charts showcasing the information such as timelines, heatmaps, bar charts and other charts. To enhance the information, various drill-down features were implemented to provide additional information. To make the dashboard more interactable, filters are presented at the top of each dashboard to allow users to navigate the dashboard. A navigation panel is present on the left side of each dashboard that allows users to navigate through each dashboard, an information button that provides an introduction to the dashboard, buttons to download a pdf/image of the dashboard, and buttons to navigate to social media links.
 
-#### Additioanl Touches
+#### Additional Touches
 
 To finish our dashboard, we create a custom background using **Figma** to create shadows and rounded corners to produce a more polished professional look. The [dashboard](https://public.tableau.com/app/profile/scott.duong8287/viz/HRDashboard_17219463577760/HRDashboard) can be viewed here.
